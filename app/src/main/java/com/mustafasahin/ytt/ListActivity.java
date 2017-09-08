@@ -45,12 +45,12 @@ public class ListActivity extends AppCompatActivity {
 
 
 
-        listadapter adapter = new listadapter(this,objeeeeler);
+        listadapter adapter = new listadapter(this,objeler);
         listView.setAdapter(adapter);
 
 
 
-s
+
 
 
 }
